@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(247, 210, 247);
+}
+div.container {
+  background-color: palevioletred;
+  margin: 0% auto;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+}
